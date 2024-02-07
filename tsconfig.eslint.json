@@ -1,0 +1,11 @@
+{
+  "extends": "./tsconfig.json",
+  "exclude": ["node_modules"],
+  "include": [
+    "tailwind.config.js",
+    "*.config.cjs",
+    "**/*.ts",
+    "**/*.tsx",
+    "**/*.js"
+  ]
+}

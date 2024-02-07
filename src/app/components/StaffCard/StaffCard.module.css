@@ -1,0 +1,6 @@
+.card {
+  background: url("../../../resources/img/profile_bg.svg"), #33364c;
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}

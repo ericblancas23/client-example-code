@@ -1,0 +1,11 @@
+.header {
+  --gradient: linear-gradient(91.1deg, #7692f51f 10.53%, #08e2ae1f 96.58%);
+}
+
+.header {
+  background: url("../../../resources/img/candidates_header_bg.svg"),
+    var(--gradient);
+  background-position: right;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
